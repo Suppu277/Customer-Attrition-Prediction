@@ -1,11 +1,5 @@
 # Customer-Attrition-Prediction
 
-# Details of the Project
-
-- **Host** : Kaggle
-- **Partner** : Kharagpur Data Analytics Group
-- **Duration of competition** : May 3, 2021 -> May 11, 2021
-- For more details visit [competition page](https://www.kaggle.com/c/customerattritionprediction/overview)
 
 # Dataset
 
